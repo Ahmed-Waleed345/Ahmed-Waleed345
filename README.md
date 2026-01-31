@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey there, I'm [Ahmed Waleed]() 👋
 
-<!--
-**Ahmed-Waleed345/Ahmed-Waleed345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer · CSE Student**
 
-Here are some ideas to get you started:
+💼 **Current:** College student at the Faculty of Engineering, Minia University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+
+I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
+I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+
+
+
+
+<br clear="right"/>
+
+## 🔧 My Tech Stack
+
+![Python](https://img.shields.io/badge/Python-4479A1?logo=python&logoColor=fff)
+
+<!--## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
+</div>
 -->
+## 🔗 Connect with Me
+
+<div align="center">
+  
+<!--[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousefdergham.vercel.app/)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-waleed-fathy)
+
+</div>
