@@ -2,7 +2,7 @@
 
 **Data Engineer · CSE Student**
 
-💼 **Current:** College student at the Faculty of Engineering, Minia University
+💼 **Current:** College student at the Faculty of Engineering, Minia University and traunee at Digital Egypt Pioneers track Data Engineer 
 
 ## 🚀 About Me
 
