@@ -7,7 +7,19 @@
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+I'm a 2nd-year Engineering student specializing in Computer Engineering with a strong interest in Data Engineering and Data Analysis. 
 
+I work with Python and several data tools to clean, process, and analyze data efficiently. My experience includes libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization.
+
+My skills include:
+- Data Cleaning
+- Python scripting
+- Data Analysis
+- Web Scraping
+- SQL
+- MongoDB (NoSQL databases)
+
+I focus on writing clean and well-structured code while delivering work quickly and efficiently.
 
 
 
